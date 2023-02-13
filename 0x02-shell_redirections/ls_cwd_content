@@ -1,0 +1,17 @@
+total 44
+drwxr-xr-x 2 root root  259 Feb 13 10:16 .
+drwxr-xr-x 5 root root   74 Feb 13 05:43 ..
+-rwxr--r-- 1 root root   33 Feb 13 05:55 0-hello_world
+-rwxr--r-- 1 root root   29 Feb 13 07:52 1-confused_smiley
+-rw-r--r-- 1 root root 1338 Feb 13 08:10 2-hellofile
+-rw-r--r-- 1 root root 1513 Feb 13 08:15 3-twofiles
+-rw-r--r-- 1 root root  651 Feb 13 08:19 4-lastlines
+-rw-r--r-- 1 root root  424 Feb 13 08:26 5-firstlines
+-rw-r--r-- 1 root root   75 Feb 13 08:34 6-third_line
+-rw-r--r-- 1 root root   72 Feb 13 10:09 7-file
+-rwxr--r-- 1 root root   36 Feb 13 10:16 8-cwd_state
+-rw-r--r-- 1 root root  765 Feb 13 08:32 Alea iacta est
+
+Alea iacta est (The
+-rw-r--r-- 1 root root  799 Feb 13 08:33 iacta
+-rw-r--r-- 1 root root    0 Feb 13 10:16 ls_cwd_content

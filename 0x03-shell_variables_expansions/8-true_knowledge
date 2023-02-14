@@ -1,2 +1,2 @@
 #!/bin/bash
-let "TRUEKNOWLEDGE=5 + 128"
+expr $TRUEKNOWLEDGE + 128
